@@ -1,8 +1,9 @@
 # ParallelRnn
 
 Pour lancer l'agorithme d'entrainement parrelèle du LSTM
+lien vers les données : https://drive.google.com/file/d/1_F4a--DNe1zm4DSWP3Nl6QPAqwoR4Trw/view?usp=drive_link
 
-##Parallélé avec Mutex 
+##Parallélé sans Mutex 
 
 1. git clone 
 2. cd 
